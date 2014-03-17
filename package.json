@@ -1,9 +1,9 @@
 {
-  "name": "hackathon-starter",
+  "name": "abthackathonheroku",
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/consolacao/abthackathonheroku.git"
   },
   "scripts": {
     "start": "node app.js",
@@ -44,7 +44,8 @@
     "twit": "~1.1.12",
     "underscore": "~1.6.0",
     "uglify-js": "~2.4.12",
-    "validator": "~3.4.0"
+    "validator": "~3.4.0",
+    "logfmt": "^1.0.0-pre"
   },
   "devDependencies": {
     "mocha": "~1.17.1",
